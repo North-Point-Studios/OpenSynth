@@ -1,0 +1,4 @@
+?package(opensynth):needs="X11" section="Apps/Sound" \
+  title="opensynth" hints="Audio" command="/usr/bin/opensynth" \
+  longtitle="OpenSynth" \
+  icon="/usr/share/icons/hicolor/scalable/apps/lmms.svg"
